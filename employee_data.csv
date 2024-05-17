@@ -1,0 +1,15 @@
+name,gender,department,salary,age
+French,Male,HR,90000,44
+,,,,
+Chloe,Female,HR,70000,34
+Wood,Male,HR,,44
+Alex,Male,IT,65000,21
+Charlotte,Female,IT,90000,
+,,,,
+Max,Male,,62000,43
+David,Female,Marketing,70000,
+,,,,
+Worris,Male,Marketing,66000,36
+Jales,Male,,80000,25
+Emily,Female,Sales,,28
+Michael,Male,Sales,75000,28
